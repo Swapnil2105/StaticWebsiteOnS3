@@ -1,6 +1,4 @@
-# StaticWebsiteOnS3
-
-Hosting Static Website on AWS S3
+#Hosting Static Website on AWS S3
 This project demonstrates how to host a static website on Amazon S3.
 
 Table of Contents
